@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+
+# Local settings (PORT, OLLAMA_URL, ...) — never commit
+.env
+
+# Local tooling
+.claude/
